@@ -1,0 +1,52 @@
+* {
+	box-sizing: box-border;
+	
+}
+
+body {
+	font-family: times, serif, courier;
+	margin-left: 50px;
+	margin-right: 50px;
+	/*border: solid blue;*/
+	height: 730px;
+}
+
+h1 {
+	background-color: rgba(72, 99, 160, 0.3);
+	font-family: sans-serif;
+	font-size: 28pt;
+	
+}
+
+.makeitred {
+	color: red;
+	font-size: 18pt;
+	font-family: times;
+	
+}
+
+
+p {
+	font-family: courier;
+	font-size: 14pt;
+	
+}
+
+button {
+	font-family: courier;
+	font-size: 14pt;
+	
+}
+
+.footer {
+	font-family: courier;
+	background-color: rgba(72, 99, 160, 0.3);
+	margin-top: 300px;
+	
+}
+
+.footer p {
+	text-align: center;
+	
+}
+
